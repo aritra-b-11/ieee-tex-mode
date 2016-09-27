@@ -1,0 +1,10 @@
+* main idea
+** to see whether the ieee style paper is present in the current dir
+*** download if not
+** conf/journ paper?
+** easy editing for tables
+** call the .eps/.pdf pics from the dir
+*** use helm-file-name package
+** compile using latex-extra
+** view using the latex-preview
+** check the pdf online using the ieee checker
